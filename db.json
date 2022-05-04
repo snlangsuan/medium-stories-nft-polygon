@@ -1,13 +1,13 @@
 {
   "pankung-collection": [
     {
-      "tokenid": 1001,
+      "id": 1001,
       "name": "Pankung #1",
       "description": "This is a demo NFT for Medium stories.\nこれは、ストーリー「Medium」のデモNFTです。",
       "image": "https://ipfs.io/ipfs/bafkreibvu7ye3qsou4hxxt4oma4qaxskvj6tmf4bpo2cpwxnemqbklq5ni"
     },
     {
-      "tokenid": 1002,
+      "id": 1002,
       "name": "Pankung #2",
       "description": "This is a demo NFT for Medium stories.\nこれは、ストーリー「Medium」のデモNFTです。",
       "image": "https://ipfs.io/ipfs/bafkreifjgcusw27g522awuhjlaw42x6ufn7ojsfixcpdhtnczpz7h4md6m"
