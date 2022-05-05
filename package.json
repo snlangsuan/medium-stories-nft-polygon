@@ -3,25 +3,18 @@
   "version": "1.0.0",
   "description": "A sample project to deploy to the Polygon Matic PoS chain",
   "main": "truffle-config.js",
-  "directories": {
-    "test": "test"
-  },
   "author": "decimo.me",
   "license": "MIT",
   "scripts": {
     "test": "truffle test",
     "truffle:init": "truffle init",
-    "truffle:create:contract": "truffle create contract",
-    "truffle:create:test": "truffle create test",
     "truffle:develop": "truffle develop",
-    "truffle:migrate": "truffle migrate",
     "truffle:console": "truffle console"
   },
   "dependencies": {
     "@openzeppelin/contracts": "^4.6.0",
     "@truffle/hdwallet-provider": "^2.0.8",
     "dotenv": "^16.0.0",
-    "ethers": "^5.6.5",
     "truffle": "^5.5.12"
   }
 }

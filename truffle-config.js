@@ -2,7 +2,7 @@ const HDWalletProvider = require('@truffle/hdwallet-provider')
 require('dotenv').config()
 
 const privateKey = process.env.METAMASK_PRIVATEKEY
-const alchemyApiKey = process.env.ALCHEMY_API_KEY
+const alchemyApiKey = process.env.DEV_API_KEY
 
 module.exports = {
 
